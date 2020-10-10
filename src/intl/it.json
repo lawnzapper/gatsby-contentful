@@ -1,0 +1,17 @@
+{
+    "title": "Gatsby Italiano",
+    "description": "Descrizione Progetto",
+    "author": "@lawnzapper",
+    "hello": "Ciao a tutti!",
+    "welcome": "Benvenuti su AIAZ.",
+    "title_page2": "Seconda Pagina",
+    "hello_page2": "Ciao dalla seconda pagina",
+    "go_page2": "Vai a pagina 2",
+    "welcome_page2": "Benvenuto a pagina 2",
+    "go_back": "Torna alla home",
+    "footer_build": "Built with",
+    "notfound": {
+        "header": "NOT FOUND",
+        "description": "Questa pagina non esiste... bisogna scavare ancora?"
+    }
+}
